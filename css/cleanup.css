@@ -20,7 +20,7 @@
   display: none;
 }
 
-html body div#wall div.parent div div#tag-6 {
+html body div#wall div.parent div:nth-child(2) div#tag-6 {
   display: none;
 }
 
