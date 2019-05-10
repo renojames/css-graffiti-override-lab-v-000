@@ -24,6 +24,6 @@ div#wall div.parent div div#tag-6 {
   display: none;
 }
 
-html body #wall div.parent div:first-of-type div#tag-7.slick {
+#wall div.parent div:first-of-type div#tag-7.slick {
   display: none;
 }
